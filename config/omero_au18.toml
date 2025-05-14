@@ -1,0 +1,4 @@
+image_id = 68807
+omero_id = "ct27"
+host = "wsi-omero-prod-02.internal.sanger.ac.uk"
+save_dir = "/nfs/research/uhlmann/callum/histology_features/histology_features/config/annotation/test_download"
